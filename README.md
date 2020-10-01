@@ -4,8 +4,8 @@
 
 * This is a simple 2D Space Invador game using pygame. 
 * There are mainly two types of characters in this game . 
-* First one is Enimies who will attack from the top of the screen and other one is the main player that will attack enemies and will try to protect oneself.
-* Enimies will always move from top to bottom of the screen and will try to reach to the main Player, But Our Main plays of this Game can shoot enimies by shotgun using space bar   key from the keyboard.
+* First one is Enemies who will attack from the top of the screen and other one is the main player that will attack enemies and will try to protect oneself.
+* Enemies will always move from top to bottom of the screen and will try to reach to the main Player, But Our Main player of this Game can shoot enemies by shotgun using space bar   key from the keyboard.
 * Also the movement of the main player can be holed in using all four arrow keys of the keyboard. 
 
 >>>> Basic requirement to play this game in your PC :-
